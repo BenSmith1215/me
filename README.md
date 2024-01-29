@@ -64,9 +64,9 @@
         <!-- My Favorite Hobby / Activity Section -->
         <h2>My Favorite Hobby / Activity</h2>
         <ul>
-            <li><a href=https://www.flypgs.com/en/extreme-sports/snowboarding target="_blank">Snowboarding</a></li>
-            <li><a href=https://www.iberdrola.com/talent/benefits-video-games-learning target="_blank">Video Games</a></li> 
-            <li><a href=https://www.djtambe.art/ target="_blank">Drawing</a></li>  
+            <li><a href="https://www.flypgs.com/en/extreme-sports/snowboarding" target="_blank">Snowboarding</a></li>
+            <li><a href="https://www.iberdrola.com/talent/benefits-video-games-learning" target="_blank">Video Games</a></li> 
+            <li><a href="https://www.djtambe.art/" target="_blank">Drawing</a></li>  
         </ul>
 
         <!-- Fun Fact Section -->
